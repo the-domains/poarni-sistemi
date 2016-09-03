@@ -1,3 +1,4 @@
+layout_spectrum: 0.7920824026223272
 typography_spectrum: 0.12366432254202664
 color:
   brandStrength: 0.7577157069463283
@@ -5,15 +6,9 @@ color:
   saturation: 0.5870319972746074
   rhythmicContrast: 0.11499672709032893
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-layout_spectrum: 0.7920824026223272
-author:
-  name: David
-  email: david@pozarnisistemi.si
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: POŽARNI SISTEMI
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/63e6cdd4-45bc-4e97-a78a-6a9ca2315ade.jpg
